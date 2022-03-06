@@ -1,0 +1,55 @@
+body{
+    font-family: sans-serif,serif;
+}
+header{ 
+    background-image: url('https://as1.ftcdn.net/v2/jpg/02/80/75/26/1000_F_280752697_HLvGS3zZASOHsAhYpTYujbEHI1nCyHd6.jpg');
+    background-size: cover;
+    background-position: center center;
+    height:200px;
+    opacity: 0.8;
+     }   
+    
+main{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/002/536/225/non_2x/light-blue-backdrop-with-rectangles-abstract-gradient-illustration-with-colorful-rectangles-pattern-for-websites-landing-pages-vector.jpg');
+    background-size: cover;
+    background-position:center center;
+    height: 1000px;
+}
+h1,h2,h3{ background-color: #1c2427;
+    color:#ffffff;
+    font-size: x-large;
+    opacity: 0.4;
+    text-align: center;
+    }
+span{
+    font-weight: bold;
+}
+
+nav{
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: 30px;
+    text-align: end;
+    background-color: rgb(43, 43, 43);
+    opacity: 0.5;
+}
+a{text-decoration:unset;
+    color: white;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: static;
+}
+footer{
+  
+    background-color:#1c2427 ;
+   
+}
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.5;
+}
